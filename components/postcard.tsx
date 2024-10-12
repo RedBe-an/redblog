@@ -44,6 +44,7 @@ export function PostCard({
           <CardTitle>{title}</CardTitle>
           <p className="mb-2" />
           <CardDescription>{summary}</CardDescription>
+          <p className="mb-4" />
           <CardDescription>{publishedAt}</CardDescription>
         </div>
       </CardHeader>

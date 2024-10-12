@@ -7,10 +7,11 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
-        <Navbar />
-        <Main />
-        <Footer />
-        <NextScript />
+        
+          <Navbar />
+          <Main />
+          <Footer />
+          <NextScript />
       </body>
     </Html>
   );
